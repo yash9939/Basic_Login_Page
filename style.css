@@ -1,0 +1,84 @@
+body {
+    font-family: "Sego UI", tahoma, Geneva, Verdana, sana-serif;
+    background-color: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.login-contianer{
+    background-color:bisque;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 350px;
+    text-align: center;
+}
+
+.login-contianer h2{
+    margin-bottom: 24px;
+    color: black;
+}
+
+.input-group {
+    margin-bottom: 15px;
+    text-align: left;
+}
+
+.input-group label{
+    display: block;
+    margin-bottom: 5px;
+    color: black;
+    font-size: 14px;
+}
+
+.input-group input{
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-sizing: border-box;
+    font-size: 16px;
+}
+
+.input-group input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+/* Button Style */
+.login-btn {
+    width: 100%;
+    padding: 12px;
+    background-color: pink;
+    border: none;
+    border-radius: 4px;
+    color: black;
+    font-size: 16px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.login-btn:hover {
+    background-color: #0056b3;
+}
+
+/* Extra Links */
+.extra-links {
+    margin-top: 20px;
+    font-size: 13px;
+    color: #777;
+}
+
+.extra-links a {
+    color: #007bff;
+    text-decoration: none;
+}
+
+.extra-links a:hover {
+    text-decoration: underline;
+}
