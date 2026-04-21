@@ -1,7 +1,7 @@
 ## IAM Assignment ##
 
 #### Elastic IP Address ####
-- <b>Elastic IP:-</b> 56.228.45.114
+- <b>Elastic IP:-</b> 56.228.45.114 (Now not valid)
 
 #### EC2 Instance ScreenShot ####
 
