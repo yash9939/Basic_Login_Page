@@ -1,26 +1,22 @@
-## IAM Assignment ##
+## S3 Assignment ##
 
-#### Elastic IP Address ####
-- <b>Elastic IP:-</b> 56.228.45.114 (Now not valid)
+#### Bucket Details ####
+- <b>Name:-</b> Yash Bhardwaj
+- <b>Registration No.:-</b> 12307816
+- <b>Bucket Name:-</b> basic-login-page
+- <b>Static Link:-</b> http://basic-login-page.s3-website.eu-north-1.amazonaws.com/
 
-#### EC2 Instance ScreenShot ####
-
-<img width="1919" height="866" alt="Screenshot 2026-04-20 113032" src="https://github.com/user-attachments/assets/9fc57d4f-bdc9-45cd-95e2-3ff60a878b2c" />
-
-
-#### User Login 1 ####
-- <b>User Name:-</b> test-dev-001
-- <b>Accessibility:-</b> Accessible to EC2 Instance (only)
-
-<img width="1919" height="869" alt="Screenshot 2026-04-20 112133" src="https://github.com/user-attachments/assets/b49ea71c-bbb8-45a0-8313-1f8458fc1f83" />
+#### 1. Create S3 Bucket ####
 
 
-#### User Login 2 ####
-- <b>User Name:-</b> test-dev-002
-- <b>Accessibility:-</b> No Access to EC2 Instance (or any other service)
 
-<img width="1919" height="862" alt="Screenshot 2026-04-20 112150" src="https://github.com/user-attachments/assets/ff78bb76-86af-46f6-86c7-551fe3c16df3" />
+#### 2. Enabling Versioning ####
 
 
-#### Challenges ####
-- No challenges faced in deploying EC2 Instance, creating and associating Elastic IP Address, or creating and assigning permissions to the users
+
+#### 3. Deploy Static Website ####
+
+
+
+#### 4. LifeCycle Rules ####
+
